@@ -20,7 +20,7 @@
 <html>
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title>Bespoke Suits for Dogs! (A sample app for CodeDeploy)</title>
+    <title>Bespoke Suits for CATS! (A sample app for CodeDeploy)</title>
     <meta name="viewport" content="initial-scale=1.0">
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap.min.css'>
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap-theme.min.css'>
@@ -36,7 +36,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="#">Bespoke Suits for Dogs</a>
+        <a class="navbar-brand" href="#">Bespoke Suits for CATS</a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
@@ -82,7 +82,7 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Bespoke Suits for Dogs</h1>
+      <h1>Bespoke Suits for CATS</h1>
       <p><i>Why can't your canine companion be classy too?</i></p>
     </div>
     <div class="page-header">
